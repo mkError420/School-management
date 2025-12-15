@@ -18,7 +18,7 @@ const SingleStudentPage = () => {
         <Image src="https://images.pexels.com/photos/5414817/pexels-photo-5414817.jpeg?auto=compress&cs=tinysrgb&w=1200" alt="" width={144} height={144} className="w-36 h-36 rounded-full object-cover"/>
         </div>
         <div className="w-2/3 flex flex-col justify-between gap-4">
-        <h1 className="text-xl font-semibold">Cameron Monak</h1>
+        <h1 className="text-xl font-semibold">MK. Rabbani</h1>
         <p className="text-sm text-gray-600">Lorem ipsum, dolor sit amet consectetur adipisicing elit. Minima, cum.
         </p>
         <div className="flex items-center justify-between gap-2 flex-wrap text-xs font-medium">
